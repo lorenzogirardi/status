@@ -4,8 +4,10 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: k8s
+  - name: k8s_www
     url: https://www.k8s.it
+  - name: k8s_services_root
+    url: https://services.k8s.it
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -15,10 +17,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
