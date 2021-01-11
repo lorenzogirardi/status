@@ -22,18 +22,19 @@
     "url": "https://services.k8s.it",
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "k8s-services-root",
-    "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.12%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
     "time": 539,
     "timeDay": 560,
     "timeWeek": 526,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
+      "2021-01-11": 0,
       "2021-01-04": 391
     }
   }
