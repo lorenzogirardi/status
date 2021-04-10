@@ -24,7 +24,7 @@
     "url": "https://services.k8s.it",
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "k8s-services-root",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
