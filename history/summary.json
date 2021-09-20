@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 205,
-    "timeWeek": 358,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "time": 256,
+    "timeDay": 215,
+    "timeWeek": 357,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -22,35 +22,39 @@
     "url": "https://services.k8s.it/grafana/?orgId=2",
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 489,
-    "timeWeek": 510,
+    "timeDay": 529,
+    "timeWeek": 512,
     "timeMonth": 544,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 2
+    }
   },
   {
     "name": "services",
     "url": "https://services.k8s.it/",
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 371,
-    "timeWeek": 346,
-    "timeMonth": 313,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 315,
+    "timeDay": 395,
+    "timeWeek": 349,
+    "timeMonth": 315,
+    "timeYear": 315,
+    "dailyMinutesDown": {
+      "2021-09-20": 0
+    }
   }
 ]
