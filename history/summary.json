@@ -22,10 +22,10 @@
     "url": "https://services.k8s.it/grafana/?orgId=2",
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.49%",
     "time": 566,
@@ -34,6 +34,7 @@
     "timeMonth": 585,
     "timeYear": 566,
     "dailyMinutesDown": {
+      "2021-10-17": 2,
       "2021-09-22": 102,
       "2021-09-20": 323
     }
@@ -43,7 +44,7 @@
     "url": "https://services.k8s.it/",
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +56,7 @@
     "timeMonth": 359,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2021-10-17": 0,
       "2021-09-22": 102,
       "2021-09-20": 322
     }
