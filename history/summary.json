@@ -22,7 +22,7 @@
     "url": "https://services.k8s.it/grafana/?orgId=2",
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
@@ -34,6 +34,7 @@
     "timeMonth": 595,
     "timeYear": 591,
     "dailyMinutesDown": {
+      "2022-01-28": 0,
       "2022-01-25": 41,
       "2022-01-05": 386,
       "2021-12-30": 414,
