@@ -4,9 +4,9 @@
     "url": "https://www.k8s.it",
     "icon": "https://favicons.githubusercontent.com/www.k8s.it",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 246,
     "timeMonth": 230,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   },
   {
     "name": "grafana",
@@ -63,11 +65,11 @@
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "services",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.71%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 338,
     "timeDay": 208,
     "timeWeek": 336,
