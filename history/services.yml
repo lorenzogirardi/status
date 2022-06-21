@@ -1,7 +1,7 @@
 url: https://services.k8s.it/
-status: down
-code: 500
-responseTime: 27162
-lastUpdated: 2022-06-21T06:50:55.704Z
+status: up
+code: 200
+responseTime: 383
+lastUpdated: 2022-06-21T07:02:35.784Z
 startTime: Fri Aug 20 2021 11:41:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
