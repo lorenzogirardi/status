@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 239,
-    "timeDay": 206,
-    "timeWeek": 174,
-    "timeMonth": 254,
+    "timeDay": 277,
+    "timeWeek": 188,
+    "timeMonth": 256,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-06-30": 156,
@@ -34,7 +34,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
     "time": 666,
-    "timeDay": 442,
+    "timeDay": 571,
     "timeWeek": 507,
     "timeMonth": 558,
     "timeYear": 676,
@@ -67,8 +67,7 @@
       "2021-11-21": 25,
       "2021-10-30": 66,
       "2021-10-28": 72,
-      "2021-10-17": 27,
-      "2021-09-22": 102
+      "2021-10-17": 27
     }
   },
   {
@@ -77,15 +76,15 @@
     "icon": "https://favicons.githubusercontent.com/services.k8s.it",
     "slug": "services",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 376,
-    "timeDay": 251,
-    "timeWeek": 292,
-    "timeMonth": 323,
+    "timeDay": 373,
+    "timeWeek": 310,
+    "timeMonth": 327,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2022-08-10": 22,
@@ -116,8 +115,7 @@
       "2021-11-28": 102,
       "2021-11-21": 25,
       "2021-10-28": 72,
-      "2021-10-17": 25,
-      "2021-09-22": 102
+      "2021-10-17": 25
     }
   }
 ]
