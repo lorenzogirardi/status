@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 236,
-    "timeDay": 197,
-    "timeWeek": 224,
-    "timeMonth": 209,
+    "timeDay": 201,
+    "timeWeek": 228,
+    "timeMonth": 206,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-06-30": 156,
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.k8s.it.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.07%",
     "time": 666,
-    "timeDay": 393,
-    "timeWeek": 554,
-    "timeMonth": 661,
+    "timeDay": 419,
+    "timeWeek": 532,
+    "timeMonth": 654,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2022-11-18": 16,
@@ -67,8 +67,7 @@
       "2022-01-05": 386,
       "2021-12-30": 414,
       "2021-12-22": 41,
-      "2021-11-28": 102,
-      "2021-11-21": 25
+      "2021-11-28": 102
     }
   },
   {
@@ -82,10 +81,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.07%",
-    "time": 380,
-    "timeDay": 239,
-    "timeWeek": 274,
-    "timeMonth": 393,
+    "time": 379,
+    "timeDay": 136,
+    "timeWeek": 275,
+    "timeMonth": 383,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2022-10-29": 16,
@@ -116,8 +115,7 @@
       "2022-01-05": 386,
       "2021-12-30": 414,
       "2021-12-22": 39,
-      "2021-11-28": 102,
-      "2021-11-21": 25
+      "2021-11-28": 102
     }
   }
 ]
