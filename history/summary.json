@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 243,
-    "timeDay": 187,
-    "timeWeek": 177,
-    "timeMonth": 197,
+    "timeDay": 224,
+    "timeWeek": 182,
+    "timeMonth": 198,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2022-06-30": 156,
@@ -27,18 +27,19 @@
     "url": "https://services.k8s.it/grafana/?orgId=2",
     "icon": "https://icons.duckduckgo.com/ip3/services.k8s.it.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "73.30%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "95.94%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.20%",
     "time": 721,
-    "timeDay": 3068,
-    "timeWeek": 1219,
-    "timeMonth": 682,
-    "timeYear": 763,
+    "timeDay": 549,
+    "timeWeek": 1207,
+    "timeMonth": 685,
+    "timeYear": 757,
     "dailyMinutesDown": {
+      "2023-03-02": 2,
       "2023-02-28": 408,
       "2023-02-09": 247,
       "2023-02-05": 87,
@@ -63,8 +64,7 @@
       "2022-03-28": 22,
       "2022-03-27": 526,
       "2022-03-26": 237,
-      "2022-03-22": 204,
-      "2022-03-02": 575
+      "2022-03-22": 204
     }
   },
   {
@@ -72,18 +72,19 @@
     "url": "https://services.k8s.it/",
     "icon": "https://icons.duckduckgo.com/ip3/services.k8s.it.ico",
     "slug": "services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "73.29%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.97%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "99.22%",
     "time": 425,
-    "timeDay": 334,
-    "timeWeek": 254,
-    "timeMonth": 1250,
-    "timeYear": 456,
+    "timeDay": 314,
+    "timeWeek": 265,
+    "timeMonth": 1248,
+    "timeYear": 455,
     "dailyMinutesDown": {
+      "2023-03-02": 0,
       "2023-02-28": 406,
       "2023-02-09": 217,
       "2023-02-05": 18,
@@ -107,8 +108,7 @@
       "2022-03-28": 22,
       "2022-03-27": 526,
       "2022-03-26": 236,
-      "2022-03-22": 202,
-      "2022-03-02": 574
+      "2022-03-22": 202
     }
   }
 ]
