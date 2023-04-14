@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 240,
-    "timeDay": 163,
-    "timeWeek": 179,
-    "timeMonth": 200,
+    "time": 241,
+    "timeDay": 278,
+    "timeWeek": 194,
+    "timeMonth": 203,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-06-30": 156,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.k8s.it.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.21%",
-    "time": 754,
-    "timeDay": 776,
-    "timeWeek": 699,
-    "timeMonth": 1103,
+    "time": 755,
+    "timeDay": 743,
+    "timeWeek": 709,
+    "timeMonth": 1107,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2023-04-04": 238,
@@ -63,8 +63,7 @@
       "2022-05-27": 22,
       "2022-05-25": 19,
       "2022-04-24": 449,
-      "2022-04-23": 421,
-      "2022-04-14": 347
+      "2022-04-23": 421
     }
   },
   {
@@ -78,10 +77,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.26%",
-    "time": 419,
-    "timeDay": 197,
-    "timeWeek": 281,
-    "timeMonth": 305,
+    "time": 418,
+    "timeDay": 366,
+    "timeWeek": 299,
+    "timeMonth": 310,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2023-04-04": 209,
@@ -108,8 +107,7 @@
       "2022-05-27": 22,
       "2022-05-25": 18,
       "2022-04-24": 449,
-      "2022-04-23": 420,
-      "2022-04-14": 346
+      "2022-04-23": 420
     }
   }
 ]
