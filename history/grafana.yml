@@ -1,7 +1,7 @@
 url: https://services.k8s.it/grafana/?orgId=2
-status: down
-code: 502
-responseTime: 926
-lastUpdated: 2023-09-20T03:46:49.668Z
+status: up
+code: 200
+responseTime: 492
+lastUpdated: 2023-09-20T03:55:30.802Z
 startTime: 2021-08-20T11:41:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
