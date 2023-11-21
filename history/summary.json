@@ -4,7 +4,7 @@
     "url": "https://www.k8s.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.k8s.it.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 337,
-    "timeWeek": 278,
-    "timeMonth": 241,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "timeWeek": 286,
+    "timeMonth": 244,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2023-11-21": 0
+    }
   },
   {
     "name": "grafana",
