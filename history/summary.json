@@ -4,19 +4,19 @@
     "url": "https://www.k8s.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.k8s.it.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 337,
-    "timeWeek": 286,
-    "timeMonth": 244,
+    "timeWeek": 291,
+    "timeMonth": 246,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-11-21": 0
+      "2023-11-21": 9
     }
   },
   {
