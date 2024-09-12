@@ -1,7 +1,7 @@
 url: https://www.k8s.it
-status: down
-code: 404
-responseTime: 169
-lastUpdated: 2024-09-12T20:10:54.493Z
+status: up
+code: 200
+responseTime: 359
+lastUpdated: 2024-09-12T20:27:41.743Z
 startTime: 2021-08-20T11:41:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
