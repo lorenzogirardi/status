@@ -1,7 +1,7 @@
 url: https://services.k8s.it/grafana/?orgId=2
 status: up
 code: 200
-responseTime: 799
-lastUpdated: 2024-09-16T23:15:46.443Z
+responseTime: 611
+lastUpdated: 2024-09-17T23:19:50.436Z
 startTime: 2021-08-20T11:41:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
