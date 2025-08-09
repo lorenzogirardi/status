@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 287,
-    "timeWeek": 271,
-    "timeMonth": 247,
-    "timeYear": 263,
+    "timeDay": 495,
+    "timeWeek": 307,
+    "timeMonth": 254,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2024-09-12": 17
     }
@@ -26,14 +26,14 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "96.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.15%",
     "time": 605,
-    "timeDay": 435,
-    "timeWeek": 488,
-    "timeMonth": 526,
+    "timeDay": 818,
+    "timeWeek": 512,
+    "timeMonth": 534,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2025-08-07": 47,
@@ -61,8 +61,7 @@
       "2024-08-28": 127,
       "2024-08-19": 26,
       "2024-08-15": 33,
-      "2024-08-10": 568,
-      "2024-08-09": 417
+      "2024-08-10": 568
     }
   },
   {
@@ -72,14 +71,14 @@
     "slug": "services",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "96.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.23%",
     "time": 205,
-    "timeDay": 267,
-    "timeWeek": 302,
-    "timeMonth": 343,
+    "timeDay": 199,
+    "timeWeek": 288,
+    "timeMonth": 339,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-08-07": 47,
@@ -106,8 +105,7 @@
       "2024-08-28": 127,
       "2024-08-19": 26,
       "2024-08-15": 33,
-      "2024-08-10": 191,
-      "2024-08-09": 406
+      "2024-08-10": 191
     }
   }
 ]
