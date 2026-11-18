@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 327,
-    "timeDay": 249,
-    "timeWeek": 322,
-    "timeMonth": 346,
+    "timeDay": 269,
+    "timeWeek": 331,
+    "timeMonth": 348,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2025-11-18": 103
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "grafana",
@@ -31,12 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 651,
-    "timeDay": 669,
-    "timeWeek": 698,
-    "timeMonth": 735,
+    "timeDay": 731,
+    "timeWeek": 714,
+    "timeMonth": 742,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2025-11-18": 103,
       "2025-12-31": 19,
       "2026-01-06": 236,
       "2026-03-20": 722,
@@ -60,12 +57,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 331,
-    "timeDay": 598,
-    "timeWeek": 530,
-    "timeMonth": 504,
-    "timeYear": 356,
+    "timeDay": 240,
+    "timeWeek": 510,
+    "timeMonth": 500,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-11-18": 103,
       "2025-12-31": 19,
       "2026-01-06": 236,
       "2026-03-20": 722,
